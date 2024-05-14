@@ -30,7 +30,10 @@ footer, header, hgroup, menu, nav, section {
 figcaption {
     text-align: right;
   }
-  
+
+p {
+    text-align: justify;
+  }
 
 body {
   line-height: 1; }
