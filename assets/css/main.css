@@ -35,6 +35,11 @@ p {
     text-align: justify;
   }
 
+p.francesa{
+  text-indent: -30px;
+  padding-left: 40px;
+}  
+
 body {
   line-height: 1; }
 
